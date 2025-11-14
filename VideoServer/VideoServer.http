@@ -1,0 +1,6 @@
+@VideoServer_HostAddress = http://localhost:5079
+
+GET {{VideoServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
